@@ -8,7 +8,7 @@ Heart diseases are a leading cause of death worldwide, and early detection plays
 
 ## Contents
 
-The repository includes the following files the detailed report summarizing the research methodology, experimental results, and conclusions.
+The repository includes the detailed report summarizing the research methodology, experimental results, and conclusions.
 
 ## Methodology
 
